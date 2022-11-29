@@ -2,8 +2,9 @@
 Calculator controller by JavaFX
 
 
-![2](https://user-images.githubusercontent.com/35742868/204527362-400c6dad-2e1f-497e-90c2-f8e618593d91.PNG)
+![2](https://user-images.githubusercontent.com/35742868/204553069-2a81343c-e983-4c36-9c15-051027f554c6.png)
 
-![3](https://user-images.githubusercontent.com/35742868/204527383-9b755e5a-25ce-4d95-ac03-6551c46f6629.PNG)
+![3](https://user-images.githubusercontent.com/35742868/204553081-77ce1c16-0525-483e-bb0e-c8f48cbf03ac.png)
 
-![4](https://user-images.githubusercontent.com/35742868/204527402-1553c2e2-fb57-4b08-8368-4b78b63ed8e1.PNG)
+![4](https://user-images.githubusercontent.com/35742868/204553095-688d2d03-2a21-4359-bc4e-99244ed8f329.png)
+
